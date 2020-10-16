@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lstm on Cara Van Uden</title>
+    <link>caravanuden.github.io/tags/lstm/</link>
+    <description>Recent content in lstm on Cara Van Uden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="caravanuden.github.io/tags/lstm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google text normalization challenge with LSTM encoder/decoder</title>
+      <link>caravanuden.github.io/posts/text-norm/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>caravanuden.github.io/posts/text-norm/</guid>
+      <description>Github repo.</description>
+    </item>
+    
+  </channel>
+</rss>
